@@ -1,5 +1,4 @@
 # Could-an-LLM-qualify-for-the-MIT-Integration-Bee-An-AI-Learning-Experiment_Repo
-# MIT Integration Bee LLM Experiment: Repository Overview
 Welcome to the GitHub repository associated with the paper:  
 > **“Could an LLM Qualify for the MIT Integration Bee?”**  
 by Max Gregg, Michigan State University
